@@ -28,7 +28,7 @@ $(function() {
 
 // Highlight the top nav as scrolling occurs
 $('body').scrollspy({
-    target: '.navbar-fixed-top'
+    target: '.navbar-fixed-bottom'
 })
 
 // Closes the Responsive Menu on Menu Item Click
