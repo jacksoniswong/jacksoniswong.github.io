@@ -171,7 +171,8 @@ header .intro-text .skills {
     outline: 0;
 }
 
-.navbar-default,
+/*.navbar-default,*/
+.navbar-bottom,
 .navbar-inverse {
     border: 0;
 }
