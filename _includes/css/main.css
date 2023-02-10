@@ -156,7 +156,7 @@ header .intro-text .skills {
 .navbar {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 7;
+    font-weight: 700;
 }
 
 .navbar a:focus {
@@ -164,7 +164,7 @@ header .intro-text .skills {
 }
 
 .navbar .navbar-nav {
-    letter-spacing: 1px;
+    letter-spacing: 100px;
 }
 
 .navbar .navbar-nav li a:focus {
