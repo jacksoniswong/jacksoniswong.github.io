@@ -130,25 +130,25 @@ header .intro-text .skills {
 }
 
 @media(min-width:768px) {
-    .navbar-fixed-top {
+    .navbar-fixed-bottom {
         padding: 25px 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
     }
 
-    .navbar-fixed-top .navbar-brand {
+    .navbar-fixed-bottom .navbar-brand {
         font-size: 2em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
     }
 
-    .navbar-fixed-top.navbar-shrink {
+    .navbar-fixed-bottom.navbar-shrink {
         padding: 10px 0;
     }
 
-    .navbar-fixed-top.navbar-shrink .navbar-brand {
+    .navbar-fixed-bottom.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
 }
@@ -171,8 +171,7 @@ header .intro-text .skills {
     outline: 0;
 }
 
-/*.navbar-default,*/
-.navbar-bottom,
+.navbar-default,
 .navbar-inverse {
     border: 0;
 }
