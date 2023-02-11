@@ -611,7 +611,8 @@ header .intro-text .skills {
  /* Style the navbar */
 #navbar {
   overflow: hidden;
-  background-color: #333;
+  background-color: transparent;
+  align-items: center;
 }
 
 /* Navbar links */
@@ -914,7 +915,7 @@ footer .footer-below {
     right: 25px;
     width: 75px;
     height: 75px;
-    background-color: transparent;
+    background-color: #18191c;
     cursor: pointer;
 }
 
