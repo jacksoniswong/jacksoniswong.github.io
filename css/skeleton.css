@@ -38,7 +38,7 @@
 .column,
 .columns {
   width: 100%;
-  float: left;
+  float: centre;
   box-sizing: border-box; }
 
 /* For devices larger than 400px */
@@ -159,6 +159,8 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
   color: #1EAEDB; }
+  text-decoration: underline
+
 a:hover {
   color: #0FA0CE; }
 
