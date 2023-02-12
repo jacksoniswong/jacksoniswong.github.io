@@ -6,7 +6,7 @@ const close = document.querySelector(".close");
 
 images.forEach((image) => {
   image.addEventListener("click", () => {
-    modalImg.src = image.src;
+    // modalImg.src = image.src;
     modalTxt.innerHTML = image.alt;
     modal.classList.add("appear");
 
